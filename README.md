@@ -1,7 +1,7 @@
 # 📸 Smart Face Attendance System
 
 Smart Face Attendance is a **Streamlit-based web app** that uses **face recognition** to automatically mark attendance from a webcam or a group photo.  
-This project was developed as part of an **NIT internship** in a group with **Harsh Vishwakarma**.
+This project was developed as part of an **NIT internship** in a group of two people with **Harsh Vishwakarma**.
 
 ---
 
