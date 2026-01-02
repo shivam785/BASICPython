@@ -44,3 +44,5 @@ smart-attendance/
 ├── Attendance/            # Daily attendance CSV files (auto-created)
 │   ├── Attendance_DD-MM-YYYY.csv
 └── README.md              # Project documentation
+
+thank you 
