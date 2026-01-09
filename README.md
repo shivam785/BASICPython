@@ -18,7 +18,6 @@ This project was developed as part of an **NIT internship** in a group of two pe
 
 ---
 
-
 ## 🧰 Tech Stack
 
 - **Python**
