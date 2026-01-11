@@ -18,7 +18,7 @@ This project was developed as part of an **NIT internship** in a pair  with **Ha
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech used in the projects 
 
 - **Python**
 - **Streamlit** – web UI
