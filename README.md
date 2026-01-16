@@ -35,7 +35,6 @@ This project was developed as part of an **NIT internship** in a pair  with **Ha
 
 
 ## 📁 Project Structure
-
 ```bash
 smart-attendance/
 ├── Sa.py                  # Smart Face Attendance (MTCNN + face_recognition)
